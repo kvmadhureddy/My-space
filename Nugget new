@@ -148,7 +148,7 @@ Create a Pipeline in Azure DevOps
 1. Go to Azure DevOps → Select Pipelines → Click New Pipeline.
 
 
-2. Choose YAML Pipeline and link it to your repo.
+2. Choose YAML Pipeline and link it to your repository.
 
 
 3. Add the following YAML configuration:
